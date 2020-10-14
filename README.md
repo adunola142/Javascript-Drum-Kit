@@ -1,3 +1,3 @@
 # Javascript-Drum-Kit
 
-source : https://javascript30.com/
+Reference : https://javascript30.com/
